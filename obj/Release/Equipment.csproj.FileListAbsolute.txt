@@ -1,0 +1,15 @@
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\bin\Release\Equipment.exe.config
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\bin\Release\Equipment.exe
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\bin\Release\Equipment.pdb
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\bin\Release\System.Data.SQLite.dll
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.Autorization.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.EditRepairs.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.Form1.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.Form2.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.Form3.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.NewRepairs.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.EditEquipment.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.Properties.Resources.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.csproj.GenerateResource.Cache
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.exe
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Release\Equipment.pdb

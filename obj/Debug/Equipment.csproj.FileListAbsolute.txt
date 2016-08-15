@@ -1,0 +1,15 @@
+c:\users\пп\documents\visual studio 2015\Projects\Equipment\Equipment\bin\Debug\Equipment.exe.config
+c:\users\пп\documents\visual studio 2015\Projects\Equipment\Equipment\bin\Debug\Equipment.exe
+c:\users\пп\documents\visual studio 2015\Projects\Equipment\Equipment\bin\Debug\Equipment.pdb
+c:\users\пп\documents\visual studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.Form1.resources
+c:\users\пп\documents\visual studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.Properties.Resources.resources
+c:\users\пп\documents\visual studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.csproj.GenerateResource.Cache
+c:\users\пп\documents\visual studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.exe
+c:\users\пп\documents\visual studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.pdb
+c:\users\пп\documents\visual studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.Form2.resources
+c:\users\пп\documents\visual studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.Form3.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.EditEquipment.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.NewRepairs.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.EditRepairs.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.Autorization.resources
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\Equipment\Equipment\obj\Debug\Equipment.csprojResolveAssemblyReference.cache
